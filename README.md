@@ -1,4 +1,3 @@
-
 # AI-Powered Intelligent Anti-Drone Surveillance & Threat Detection System
 
 An AI-driven real-time surveillance system that detects drones, classifies threat levels, simulates RF/GPS sensor data, predicts drone trajectories, and provides a live monitoring dashboard.
@@ -23,7 +22,9 @@ Python, OpenCV, YOLOv8/YOLOv10, NumPy, Pandas, Flask/FastAPI, Plotly Dash/Stream
 
 ---
 
-## ⚙️ Installation
+## ⚙️ Installation & Run Instructions
 
+1. Create virtual environment (Windows):
 ```bash
-pip install -r requirements.txt
+py -3 -m venv venv
+venv\Scripts\activate

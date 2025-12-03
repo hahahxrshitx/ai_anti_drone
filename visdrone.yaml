@@ -1,0 +1,8 @@
+path: C:/AI_Anti_Drone/datasets/visdrone
+
+train: train/images
+val: val/images
+
+nc: 10
+names: ['pedestrian', 'people', 'bicycle', 'car', 'van',
+        'truck', 'tricycle', 'awning-tricycle', 'bus', 'motor']
