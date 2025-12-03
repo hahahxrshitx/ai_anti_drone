@@ -22,9 +22,11 @@ Python, OpenCV, YOLOv8/YOLOv10, NumPy, Pandas, Flask/FastAPI, Plotly Dash/Stream
 
 ---
 
+
 ## ⚙️ Installation & Run Instructions
 
 1. Create virtual environment (Windows):
 ```bash
 py -3 -m venv venv
 venv\Scripts\activate
+
